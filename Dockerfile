@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:2023-05-08
+FROM jupyter/base-notebook:python-3.11
 
 # Julia
 USER root
